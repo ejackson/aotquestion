@@ -8,4 +8,4 @@
 
 (= (class (Dontwork. nil))
    (class (map->Dontwork {:a 1})))
-;; **FALSE** as this namespace it AOT complied
+;; **FALSE** as this namespace is AOT compiled
